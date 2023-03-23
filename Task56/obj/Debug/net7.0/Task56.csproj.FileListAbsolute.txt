@@ -1,0 +1,15 @@
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\obj\Debug\net7.0\Task56.csproj.AssemblyReference.cache
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\obj\Debug\net7.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\obj\Debug\net7.0\Task56.AssemblyInfoInputs.cache
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\obj\Debug\net7.0\Task56.AssemblyInfo.cs
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\obj\Debug\net7.0\Task56.csproj.CoreCompileInputs.cache
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\bin\Debug\net7.0\Task56.exe
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\bin\Debug\net7.0\Task56.deps.json
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\bin\Debug\net7.0\Task56.runtimeconfig.json
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\bin\Debug\net7.0\Task56.dll
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\bin\Debug\net7.0\Task56.pdb
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\obj\Debug\net7.0\Task56.dll
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\obj\Debug\net7.0\refint\Task56.dll
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\obj\Debug\net7.0\Task56.pdb
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\obj\Debug\net7.0\Task56.genruntimeconfig.cache
+C:\Users\Александр Булгаков\Desktop\Homework8\Task56\obj\Debug\net7.0\ref\Task56.dll
